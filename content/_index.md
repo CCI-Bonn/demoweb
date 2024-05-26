@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **CCI-Bonn** has been an excellent research group in the intersection of AI and Radiology.
+        The **Computational Radiology & Clinical AI (CCI) at Bonn** has been an excellent research group in the intersection of AI and Radiology.
   
   - block: collection
     content:
