@@ -9,23 +9,22 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        We're hiring and looking for research collaboration. Feel free to contact us. 
+      email: contact@ccibonn.ai
+      phone: +49 228 287-16505
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Venusberg-Campus 1, Building 81
+        city: Bonn
+        region: North Rhine-Westphalia
+        postcode: '53127'
+        country: Germany
+        country_code: DE
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '50.695805'
+        longitude: '7.103828'
+      directions: Enter Building 81 and Find Alex's office
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Weekdays: 9-5'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
