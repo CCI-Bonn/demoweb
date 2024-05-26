@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Computational Radiology & Clinical AI (CCI-Bonn)
+        About Us
       image:
         filename: welcome.jpg
       text: |
