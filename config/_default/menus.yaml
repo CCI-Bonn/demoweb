@@ -11,8 +11,11 @@ main:
     url: people
     weight: 20
   - name: Publications
-    url: publication
+    url: https://scholar.google.de/citations?user=z0ENYEQAAAAJ&hl=en
     weight: 30
+  - name: Test X
+    url: feed
+    weight: 30  
   - name: Contact
     url: contact
     weight: 40
