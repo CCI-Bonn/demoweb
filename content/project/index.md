@@ -8,28 +8,28 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the Group 👋 
+        content: We're building...
         align: center
         background:
           image:
             filename: coders.jpg
             filters:
-              brightness: 0.7
-          position: right
+              brightness: 0.5
+          position: center
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+      - title: Research Topics
+        content: MR Reconstruction, Radiomics, Foundation Model, Unsupervised Domain Adaptation, Federated Learning, Radiology Report Generation  
+        align: center
         background:
           image:
             filename: contact.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Computational Radiology & Clinical AI Group
+        content: We're hiring
         align: right
         background:
           image:
@@ -39,8 +39,6 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
-          icon_pack: fas
           text: Join Us
           url: ../contact/
     design:

@@ -36,44 +36,12 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
+  - block: 'tweetx'
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      title: 'Hello'
+      subtitle: 'sub'
+      text: 'hi'
     design:
       columns: '1'
 ---
-<style>
-        .twitter-timeline-container {
-            direction: rtl; /* Set direction to right-to-left */
-        }
-        .twitter-timeline {
-            text-align: left; /* Override text alignment */
-        }
-    </style>
-<div class="twitter-timeline-container">
-<a class="twitter-timeline" href="https://twitter.com/MICCAI_Society?ref_src=twsrc%5Etfw" style="display: none;">Tweets by MICCAI_Society</a>
-</div>
- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
