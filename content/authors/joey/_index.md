@@ -22,7 +22,7 @@ organizations:
     url: https://www.ukbonn.de/neuroradiologie/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Live longer than anyone
+bio: born in Korea, raised in several countries, and now live in Germany
 
 interests:
   - Spaggehtieis
