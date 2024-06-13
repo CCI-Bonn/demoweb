@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Live longer than anyone
+bio: Live longer tha
 
 interests:
   - Mozart
