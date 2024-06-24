@@ -20,13 +20,11 @@ sections:
   - block: people
     id: people
     content:
-      title: Meet the Team
+      title: The CCI-Bonn Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigators
-          - Senior Researchers
-          - Researchers
+          - Research team members
           - Visiting Researchers
           - Alumni
       sort_by: Params.last_name
