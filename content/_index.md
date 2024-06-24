@@ -54,6 +54,26 @@ sections:
     design:
       view: card
       columns: '1'
+
+  - block: collection
+    id: publication
+    content:
+      title: Publications
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: citation
+      columns: '1'
   
   - block: 'tweetx'
     content:
