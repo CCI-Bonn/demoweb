@@ -18,6 +18,7 @@ sections:
         The **Computational Radiology & Clinical AI (CCI) at Bonn** has been an excellent research group in the intersection of AI and Radiology.
   
   - block: people
+    id: people
     content:
       title: Meet the Team
       # Choose which groups/teams of users to display.
@@ -61,8 +62,9 @@ sections:
       text: 'hi'
     design:
       columns: '1'
-      
+
   - block: contact
+    id: contact
     content:
       title: Contact
       text: |-
