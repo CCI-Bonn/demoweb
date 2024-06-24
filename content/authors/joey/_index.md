@@ -63,7 +63,8 @@ email: 'jaeyoung.cho@ukbonn.de'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research team members
+  - ''
+  #- Research team members
 ---
 
 Hello, Mannheim
