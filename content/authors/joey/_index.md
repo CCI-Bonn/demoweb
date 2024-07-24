@@ -36,7 +36,7 @@ education:
       year: 2010
     - course: MEng in Informatics
       institution: University of Mannheim
-      year: 2001
+      year: 2003
     - course: BSc in Philosophy
       institution: University of Mannheim
       year: 1875
